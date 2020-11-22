@@ -1,7 +1,6 @@
 ## Welcome to my GitHub Page!
 
-Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on **getting my degree**
 - 🌱 I’m currently learning **linear algebra and analytic geometry**
 - 👯 I’m looking to collaborate on **some fun project**
